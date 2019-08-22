@@ -10,7 +10,7 @@ web3 = Web3(
 #web3 = Web3(Web3.IPCProvider('/your-path-to/geth.ipc'))
 
 # load a block.
-Nblocks = 10000
+Nblocks = 100
 output_every = 2
 start_time = time.time()
 try:
